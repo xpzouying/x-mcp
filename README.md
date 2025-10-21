@@ -59,6 +59,12 @@ https://github.com/user-attachments/assets/4e1d4348-d268-4fc4-8563-a24a84e309e9
 claude mcp add --transport http x-mcp https://mcp.zouying.work/mcp --header "X-API-Key: <你的API-TOKEN>"
 ```
 
+视频演示：
+
+https://github.com/user-attachments/assets/aef73b85-fd8b-4cdb-b156-fd3005a33bbd
+
+
+
 支持通用的 MCP 协议的客户端接入，
 
 1. 选择 HTTP 协议
