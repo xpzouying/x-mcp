@@ -56,6 +56,13 @@ https://github.com/user-attachments/assets/4e1d4348-d268-4fc4-8563-a24a84e309e9
 claude mcp add --transport http x-mcp https://mcp.zouying.work/mcp --header "X-API-Key: <你的API-TOKEN>"
 ```
 
+支持通用的 MCP 协议的客户端接入，
+
+1. 选择 HTTP 协议
+2. 设置认证：Header 中增加字段： `X-API-Key`，值为 <你的API-TOKEN>。
+
+更多客户端进行补充。
+
 ### 示例
 
 依然是我们的发布示例，
