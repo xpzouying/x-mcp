@@ -53,5 +53,20 @@ https://github.com/user-attachments/assets/4e1d4348-d268-4fc4-8563-a24a84e309e9
 以 Claude Code 为例，
 
 ```
-claude mcp add --transport http xiaohongshu-mcp https://mcp.zouying.work/mcp --header "X-API-Key: <你的API-TOKEN>"
+claude mcp add --transport http x-mcp https://mcp.zouying.work/mcp --header "X-API-Key: <你的API-TOKEN>"
 ```
+
+### 示例
+
+依然是我们的发布示例，
+
+```
+帮我写一篇帖子发布到小红书上，
+配图为：https://cn.bing.com/th?id=OHR.MaoriRock_EN-US6499689741_UHD.jpg&w=3840
+图片是："纽西兰陶波湖的Ngātoroirangi矿湾毛利岩雕（© Joppi/Getty Images）"
+
+使用 x-mcp 进行发布。
+```
+
+https://github.com/user-attachments/assets/cce5d21c-94e0-4dd0-ba4c-5cfd2c65946a
+
