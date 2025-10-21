@@ -36,6 +36,9 @@
 
 浏览器插件填入 API Token 后，就能从控制台看到对应的浏览器插件的连接状态。
 
+<img width="762" height="760" alt="image" src="https://github.com/user-attachments/assets/92e21798-79d9-45fe-9909-009b1fde53b6" />
+
+
 <img width="2528" height="1330" alt="image" src="https://github.com/user-attachments/assets/856304aa-ce72-4ded-a154-3a42261e06ac" />
 
 ### 1.3. 测试
