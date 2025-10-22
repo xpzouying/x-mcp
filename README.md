@@ -68,7 +68,8 @@ https://github.com/user-attachments/assets/aef73b85-fd8b-4cdb-b156-fd3005a33bbd
 支持通用的 MCP 协议的客户端接入，
 
 1. 选择 HTTP 协议
-2. 设置认证：Header 中增加字段： `X-API-Key`，值为 <你的API-TOKEN>。
+2. 连接地址：`https://mcp.zouying.work/mcp`
+3. 设置认证：Header 中增加字段： `X-API-Key`，值为 <你的API-TOKEN>。
 
 更多客户端进行补充。
 
