@@ -73,7 +73,7 @@ https://github.com/user-attachments/assets/aef73b85-fd8b-4cdb-b156-fd3005a33bbd
 
 更多客户端进行补充。
 
-### 示例
+### 示例 - 发布
 
 依然是我们的发布示例，
 
@@ -86,4 +86,9 @@ https://github.com/user-attachments/assets/aef73b85-fd8b-4cdb-b156-fd3005a33bbd
 ```
 
 https://github.com/user-attachments/assets/cce5d21c-94e0-4dd0-ba4c-5cfd2c65946a
+
+
+### 示例 - 生成封面图片
+
+https://github.com/user-attachments/assets/a41faf51-0d0f-48ca-bde5-0a92efac4bde
 
