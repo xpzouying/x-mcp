@@ -12,6 +12,10 @@
 - 自动化操作可见
 - 账号和浏览器的账号复用
 
+【一键发布 DEMO】
+
+https://github.com/user-attachments/assets/57916170-ef39-43b3-92d8-f7555b32a795
+
 
 ## 1. 使用指南
 
