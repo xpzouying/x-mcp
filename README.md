@@ -21,11 +21,21 @@ https://github.com/user-attachments/assets/57916170-ef39-43b3-92d8-f7555b32a795
 
 ### 1.1. 安装插件
 
-1. 打开 [x.zouying.work](https://x.zouying.work/) 页面，点击 "下载浏览器扩展" 按钮，下载插件。
+**方式一：Chrome 应用商店安装（推荐）**
+
+1. 访问 [Chrome 应用商店 - 小红书MCP助手](https://chromewebstore.google.com/detail/%E5%B0%8F%E7%BA%A2%E4%B9%A6mcp%E5%8A%A9%E6%89%8B/dklmcgbmpnmkndhapabinagmmdmjhjgl)
+2. 点击"添加到 Chrome"按钮
+3. 确认安装即可
+
+> 推荐使用 Chrome 应用商店安装：简单快捷，自动更新。
+
+**方式二：下载安装包**（适合无法访问 Chrome 应用商店的情况）
+
+1. 打开 [x.zouying.work](https://x.zouying.work/) 页面，点击 "下载安装包" 链接，下载插件。
 
 2. 下载并在本地解压。
 
-3. 打开 Chrome 浏览器扩展管理，打开 “开发者模式”，选择 “加载未打包的扩展程序”。
+3. 打开 Chrome 浏览器扩展管理（地址栏输入 `chrome://extensions/`），开启 "开发者模式"，选择 "加载已解压的扩展程序"。
 
 <img width="2604" height="1006" alt="image" src="https://github.com/user-attachments/assets/5e646991-bbcd-4020-9ab0-12cbdc5cddcd" />
 
