@@ -106,3 +106,7 @@ https://github.com/user-attachments/assets/cce5d21c-94e0-4dd0-ba4c-5cfd2c65946a
 
 https://github.com/user-attachments/assets/a41faf51-0d0f-48ca-bde5-0a92efac4bde
 
+### 微信群聊
+
+![微信图片_20260120103805_1_1595](https://github.com/user-attachments/assets/af7e843d-a2a2-4abb-b18c-25819eb84b29)
+
