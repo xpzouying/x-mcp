@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/57916170-ef39-43b3-92d8-f7555b32a795
 
 浏览器插件填入 API Token 后，就能从控制台看到对应的浏览器插件的连接状态。
 
-<img width="762" height="760" alt="image" src="https://github.com/user-attachments/assets/92e21798-79d9-45fe-9909-009b1fde53b6" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/92e21798-79d9-45fe-9909-009b1fde53b6" />
 
 
 <img width="2528" height="1330" alt="image" src="https://github.com/user-attachments/assets/856304aa-ce72-4ded-a154-3a42261e06ac" />
@@ -100,6 +100,17 @@ https://github.com/user-attachments/assets/aef73b85-fd8b-4cdb-b156-fd3005a33bbd
 ```
 
 https://github.com/user-attachments/assets/cce5d21c-94e0-4dd0-ba4c-5cfd2c65946a
+
+### 示例 - 发布视频
+
+依然是使用我们的发布视频示例，
+
+```帮我 2 个小时后，发布一篇视频文章，内容随意，视频已上传给了插件，不要询问，直接操作。
+视频为：创作中心上传视频
+
+使用 x-mcp 进行视频发布。
+```
+https://github.com/user-attachments/assets/ef68dd72-8b8b-425b-ad22-7ede050bf125
 
 
 ### 示例 - 生成封面图片
