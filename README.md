@@ -120,7 +120,15 @@ https://github.com/user-attachments/assets/a41faf51-0d0f-48ca-bde5-0a92efac4bde
 ### 微信群聊
 
 
+微信（1群）
+
 ![x-mcp-qr](https://github.com/user-attachments/assets/aa75b368-3558-410c-a214-94817631fb2f)
+
+
+微信（2群）
+
+![x-mcp-qr02](https://github.com/user-attachments/assets/60239607-e121-4a65-a4a0-272fbad1e7f5)
+
 
 
 
