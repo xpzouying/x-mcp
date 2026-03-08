@@ -53,6 +53,6 @@
 ### 典型应用场景示例
 
 * **指令**："看看现在小红书上关于'DeepSeek'的热门笔记有哪些？"
-    * *AI 会自动调用 `xhs_search_feeds`*
+    * *AI 会自动调用 `search_feeds`*
 * **指令**："帮我写一篇关于'极简主义穿搭'的小红书笔记，并用 modern 模板生成一个封面。"
-    * *AI 会先生成文案，随后连续调用 `xhs_generate_cover` 和 `xhs_publish_content`*
+    * *AI 会先生成文案，随后连续调用 `xhs_generate_cover` 和 `publish_content`*
