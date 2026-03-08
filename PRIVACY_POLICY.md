@@ -10,7 +10,7 @@ This Privacy Policy explains how X-MCP ("we", "our", or "the Extension"), develo
 
 X-MCP is an AI-powered assistant that helps users create and publish content on Xiaohongshu (Little Red Book). The extension connects to our backend service to enable automation features through the Model Context Protocol (MCP).
 
-- **Homepage**: https://x.zouying.work/
+- **Homepage**: https://aredink.com/
 - **GitHub**: https://github.com/xpzouying/x-mcp
 
 ## Information We Collect
@@ -30,7 +30,7 @@ This information is read from the Xiaohongshu page you are viewing and is used o
 The extension stores the following configuration locally in your browser:
 
 - **API Key**: Your authentication token for connecting to our service
-- **Server URL**: The backend server address (default: wss://mcp.zouying.work/ws)
+- **Server URL**: The backend server address (default: wss://mcp.aredink.com/ws)
 - **Auto-reconnect preference**: Whether to automatically reconnect when disconnected
 
 ### 3. Operation Data
@@ -77,7 +77,7 @@ The following data is stored locally in your Chrome browser:
 
 ### Backend Service
 
-When you use the extension, the following data is transmitted to our backend server at `mcp.zouying.work`:
+When you use the extension, the following data is transmitted to our backend server at `mcp.aredink.com`:
 
 - Your API Key (for authentication)
 - Tool execution requests and parameters
@@ -128,7 +128,7 @@ You have the right to:
 2. **Delete Your Data**: Clear all extension data by:
    - Going to Chrome Settings > Extensions > X-MCP > Remove
    - Or clearing the extension's local storage
-3. **Revoke Access**: Generate a new API Key on https://x.zouying.work/ to invalidate the old one
+3. **Revoke Access**: Generate a new API Key on https://aredink.com/ to invalidate the old one
 4. **Disable Features**: Turn off auto-reconnect in the extension settings
 5. **Uninstall**: Remove the extension at any time to stop all data collection
 
