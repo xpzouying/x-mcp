@@ -31,15 +31,16 @@
 
 ## 2. OpenClaw Skill 定义 (SKILL.md)
 
-将本仓库提供的 `openclaw/skills/x-mcp/SKILL.md` 文件复制到 OpenClaw 的技能存放目录（通常为 `~/.openclaw/skills/x-mcp/`）下。
+将本仓库提供的 `x-mcp/SKILL.md` 文件复制到 OpenClaw 项目的 skills 目录下（`<openclaw-project>/skills/x-mcp/`）。
 
 **目录结构：**
 ```
-~/.openclaw/skills/
-└── x-mcp/
-    ├── SKILL.md              # 工具定义
-    └── reference/
-        └── knowledge.md      # 技术规范参考
+<openclaw-project>/
+└── skills/
+    └── x-mcp/
+        ├── SKILL.md              # 工具定义
+        └── reference/
+            └── troubleshooting.md # 故障排除参考
 ```
 
 ---
