@@ -5,7 +5,7 @@
 
 **X-MCP** 是针对 [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) 的浏览器插件增强版。它利用 **MCP (Model Context Protocol)** 协议，让 AI 客户端（如 Claude, Cursor）能够直接控制你的浏览器，实现更安全、更简单的自动化发布。
 
-目前处于 **灰度发布阶段**，欢迎反馈你的使用体验。
+目前处于 **发布阶段**，欢迎反馈你的使用体验。
 
 ## 🌟 为什么选择 X-MCP？
 
@@ -14,6 +14,13 @@
 - **零环境部署**：无需安装 Python、Docker 或配置复杂的 API 代理。
 - **操作完全可见**：所有的自动化流程都在浏览器中实时展示，随时可干预。
 - **账号安全性高**：复用你常用的浏览器登录状态，无异地登录或环境异常风险。
+
+### 微信群
+
+|微信（2群）|
+|:---:|
+| <img src="https://github.com/user-attachments/assets/5b75def9-3937-45e4-a851-95e2ed40d342" alt="x-mcp-qr02" width="300">|
+
 
 ## 🛠️ 安装指南
 
@@ -101,12 +108,6 @@ https://github.com/user-attachments/assets/ef68dd72-8b8b-425b-ad22-7ede050bf125
 
 https://github.com/user-attachments/assets/a41faf51-0d0f-48ca-bde5-0a92efac4bde
 
-### 微信群聊
-
-微信（2群）
-<<<<<<< HEAD
-
-![x-mcp-qr02](https://github.com/user-attachments/assets/5b75def9-3937-45e4-a851-95e2ed40d342)
 
 ## Star History
 
