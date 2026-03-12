@@ -106,7 +106,8 @@ https://github.com/user-attachments/assets/a41faf51-0d0f-48ca-bde5-0a92efac4bde
 微信（2群）
 <<<<<<< HEAD
 
-![x-mcp-qr02](https://github.com/user-attachments/assets/60239607-e121-4a65-a4a0-272fbad1e7f5)
+![x-mcp-qr02](https://github.com/user-attachments/assets/5b75def9-3937-45e4-a851-95e2ed40d342)
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xpzouying/x-mcp&type=Date)](https://star-history.com/#xpzouying/x-mcp&Date)
