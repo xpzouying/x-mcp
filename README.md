@@ -17,9 +17,10 @@
 
 ### 微信群
 
-|微信（1群）|微信（3群）|
-|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/d9dac6cd-6804-41c1-94a0-5a4ca72c9ec6" alt="x-mcp-qr02" width="300">|<img src="https://github.com/user-attachments/assets/9edbaab3-f265-466e-926a-728aa5a419b0" alt="x-mcp-qr02" width="300">|
+|微信（3群）|
+|:---:|
+| <img src="https://github.com/user-attachments/assets/2ddea744-7130-40a9-941d-05585f8ee3d9" alt="x-mcp-qr02" width="300">|
+
 
 ## 🛠️ 安装指南
 
