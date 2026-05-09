@@ -19,7 +19,7 @@
 
 |微信（3群）|
 |:---:|
-| <img src="https://github.com/user-attachments/assets/d6372486-454f-4f88-87f2-82bc5671a970" alt="x-mcp-qr02" width="300">|
+| <img src="https://github.com/user-attachments/assets/c9db0e05-85f0-4f6d-9c22-e4ff595ef3b4" alt="x-mcp-qr02" width="300">|
 
 ## 🛠️ 安装指南
 
