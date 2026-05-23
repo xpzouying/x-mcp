@@ -68,6 +68,13 @@ https://github.com/user-attachments/assets/4e1d4348-d268-4fc4-8563-a24a84e309e9
 claude mcp add --transport http x-mcp https://mcp.aredink.com/mcp --header "X-API-Key: <你的API-TOKEN>"
 ```
 
+### 以 Codex 为例
+在终端运行以下命令即可完成添加：
+```bash
+export CODEX_XMCP_TOKEN=sk_xxxxxxx
+codex mcp add x-mcp --url https://mcp.aredink.com/mcp --bearer-token-env-var CODEX_XMCP_TOKEN
+```
+
 视频演示：
 
 https://github.com/user-attachments/assets/aef73b85-fd8b-4cdb-b156-fd3005a33bbd
@@ -116,4 +123,3 @@ https://github.com/user-attachments/assets/a41faf51-0d0f-48ca-bde5-0a92efac4bde
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xpzouying/x-mcp&type=Date)](https://star-history.com/#xpzouying/x-mcp&Date)
-
