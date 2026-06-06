@@ -19,7 +19,7 @@
 
 |微信（4群）|
 |:---:|
-|<img src="https://github.com/user-attachments/assets/8a82894f-39e3-4510-8389-af95a58381fb" alt="x-mcp-qr04" width="300"/>|
+|<img src="https://github.com/user-attachments/assets/1e78fea6-3828-46a3-90ca-590f522f8a6c" alt="x-mcp-qr04" width="300"/>|
 
 ### 飞书群
 |飞书群（1群）|
