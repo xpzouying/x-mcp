@@ -17,9 +17,9 @@
 
 ### 微信群
 
-|微信（4群）|
-|:---:|
-|<img src="https://github.com/user-attachments/assets/dfb352d5-47cb-4689-98c7-ef75f293d2d5" alt="x-mcp-qr04" width="300"/>|
+|微信（4群）|微信（5群）|
+|:---:|:---:|
+|<img src="https://github.com/user-attachments/assets/1fb9cea1-7f7b-4e4a-8877-d93936a761ef" alt="x-mcp-qr04" width="300"/>|<img src="https://github.com/user-attachments/assets/876e8206-701e-41b2-a890-ee37984353b2" alt="x-mcp-qr04" width="300"/>|
 
 ### 飞书群
 |飞书群（1群）|
