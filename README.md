@@ -122,4 +122,4 @@ https://github.com/user-attachments/assets/a41faf51-0d0f-48ca-bde5-0a92efac4bde
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xpzouying/x-mcp&type=Date)](https://star-history.com/#xpzouying/x-mcp&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=xpzouying/x-mcp&type=Date)](https://star-history.dera.page/#xpzouying/x-mcp&Date)
