@@ -19,7 +19,9 @@
 
 |微信（5群）|
 |:---:|
-|<img src="https://github.com/user-attachments/assets/73594af4-9703-4d13-a491-ee8a0f05562e" alt="x-mcp-qr05" width="300"/>|
+|<img src="https://raw.githubusercontent.com/ltzteam/images/refs/heads/main/1.JPG" alt="x-mcp-qr05" width="300"/>|
+
+
 
 ### 飞书群
 |飞书群（1群）|
